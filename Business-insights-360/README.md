@@ -1,6 +1,6 @@
 # Business Insights 360
 
-<img src="Image URL" alt="Alt Text" width="500"/>
+<img src="https://github.com/Duraiprasanth25/bi-dashboards/blob/work/Business-insights-360/sales_insights.PNG" alt="Alt Text" width="500"/>
 
 
 
