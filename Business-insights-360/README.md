@@ -11,6 +11,7 @@ AtliQ Hardware's Data-Driven Transformation Using Power BI
 AtliQ Hardware, a global leader in the sale of computers and accessories through Retailers, Direct, and Distributors, is experiencing rapid growth. However, a recent store expansion in the U.S. led to unforeseen losses due to reliance on intuition and limited Excel-based analysis. Meanwhile, competitors with robust analytics teams are gaining an edge through data-driven decision-making. To remain competitive and future-proof the business, AtliQ is building its analytics team and implementing Power BI to drive informed decisions across key business areas.
 
 Key Analytics Views:
+
 Finance View: Offers insights into revenue, expenses, and profitability, guiding strategic financial decisions.
 
 Sales View: Provides an in-depth analysis of sales performance by product, region, and customer, identifying growth opportunities and areas for improvement.
