@@ -23,7 +23,7 @@ The goal of this report is to analyze AtliQ Hardware's sales performance from 20
 6. New Products Launched in 2021
 7. Top 5 Marketplaces
 
-### Methodology
+### Methods:
 
 1. **ETL (Extract, Transform, Load)**: 
    - Data was sourced, transformed, and loaded into Excel for further cleaning and analysis.
@@ -81,4 +81,4 @@ This Sales Report for AtliQ Hardware provides actionable insights into sales tre
 
 ---
 
-The detailed combined report and data visualizations supporting these insights are attached to this repository.
+The detailed [combined report](https://github.com/Duraiprasanth25/bi-dashboards/blob/main/AtliQ%20-%20Sales%20Analytics/AtliQ-Sales_Analytics_Merged.pdf) and data visualizations supporting these insights are attached to this repository.
