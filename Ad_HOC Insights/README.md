@@ -1,5 +1,7 @@
 # Consumer-Goods-Ad-hoc-Insights
 
+<img src="https://github.com/Duraiprasanth25/bi-dashboards/blob/main/Ad_HOC%20Insights/Ad-Hoc-Insights.png" alt="Alt Text" width="500"/>
+
 ### Data
 This dataset is from [CODEBASICS RESUME PROJECT CHALLENGE #7](https://codebasics.io/challenge/codebasics-resume-project-challenge/7) aimed at providing insights to executive management in the Consumer Goods domain. The project analyzes consumer behavior, product sales, and performance metrics using MySQL to generate actionable insights for strategic decision-making.
 
