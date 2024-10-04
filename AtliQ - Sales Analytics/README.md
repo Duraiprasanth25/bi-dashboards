@@ -3,7 +3,7 @@
 
 ### Project Overview
 
-AtliQ Hardware is a multinational company that sells hardware products such as mice, printers, and monitors. Its customers include both e-commerce platforms like Amazon and Flipkart, and physical stores like Croma and Best Buy. AtliQ operates through three sales channels:
+AtliQ Hardware is a multinational company that sells hardware products such as mouse, printers, and monitors. Its customers include both e-commerce platforms like Amazon and Flipkart, and physical stores like Croma and Best Buy. AtliQ operates through three sales channels:
 
 - **Retailer**: Croma, Amazon
 - **Direct Channel**: AtliQ E-store, AtliQ Exclusive
