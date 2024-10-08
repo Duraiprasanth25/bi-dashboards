@@ -51,10 +51,6 @@ and success criteria  of our project.
 ---
 <img src="https://github.com/Duraiprasanth25/bi-dashboards/blob/main/Sales%20Insights/Updated_report.png" width="550" class="center">
 
-#### Interactive dashboard
-
----
-<img src="https://github.com/Duraiprasanth25/bi-dashboards/blob/main/Sales%20Insights/Sales%20insights.gif" width="600" class="center">
 
 
 
