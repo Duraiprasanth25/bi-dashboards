@@ -1,12 +1,5 @@
 # This repository contains my Data Analysis Projects
 
-## Data Analysis using Python/Pandas
-|Sr.No| Project Title | Tools    |
-|----------|----------|----------|
-|          |          |          |
-|          |          |          |
-|          |          |          |
-
 ## Data Analysis using SQL and EXCEL
 |Sr.No| Project Title | Tools    |
 |----------|----------|----------|
