@@ -1,10 +1,10 @@
 # This repository contains my Data Analysis Projects
 
-## Data Analysis using SQL and EXCEL
+## Data Analysis using SQL 
 |Sr.No| Project Title | Tools    |
 |----------|----------|----------|
 |   1       |    [Ad-Hoc-Insights](https://github.com/Duraiprasanth25/bi-dashboards/tree/main/Ad_HOC%20Insights) | MySQL & Power BI |
-|      2    |    [AtliQ - Sales Analytics](https://github.com/Duraiprasanth25/bi-dashboards/tree/main/AtliQ%20-%20Sales%20Analytics)    |  Advanced Excel |
+|      2    |    [Orders Analysis - End to end DA project](https://github.com/Duraiprasanth25/bi-dashboards/tree/main/OrdersAnalysis%20MySQL)    | Pandas & MySQL |
 |          |          |          |
 
 ## Data Analysis using Python/Pandas
