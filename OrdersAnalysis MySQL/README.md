@@ -577,19 +577,19 @@ df.to_sql("df_orders", con=engine, index=False, if_exists="append", method="mult
 
 ## Querying in MySQL
 
-![Q 1](3.png)
+![Q 1](QUERY - snippets/1.png)
 > ![A 1](1a.png)
 
-![Q 2](4.png)
+![Q 2](2.png)
 > ![A 2](2a.png)
 
-![Q 3](5.png)
+![Q 3](3.png)
 > ![A 3](3a.png)
 
-![Q 4](6.png)
+![Q 4](4.png)
 > ![A 4](4a.png)
 
-![Q 5](7.png)
+![Q 5](5.png)
 > ![A 5](5a.png)
 
 
