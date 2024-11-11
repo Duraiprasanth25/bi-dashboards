@@ -26,18 +26,7 @@ from sqlalchemy import create_engine
 
     Dataset URL: https://www.kaggle.com/datasets/ankitbansal06/retail-orders
     License(s): CC0-1.0
-    Downloading orders.csv.zip to C:\Users\abhirav
-    ... resuming from 0 bytes (205161 bytes left) ...
     
-    
-
-    
-      0%|          | 0.00/200k [00:00<?, ?B/s]
-    100%|##########| 200k/200k [00:00<00:00, 211kB/s]
-    100%|##########| 200k/200k [00:00<00:00, 211kB/s]
-    
-
-
 ```python
 # Extract file from zip file
 with zipfile.ZipFile("orders.csv.zip") as f:
@@ -52,9 +41,6 @@ with zipfile.ZipFile("orders.csv.zip") as f:
 df = pd.read_csv("orders.csv")
 df.head()
 ```
-
-
-
 
 <div>
 <table border="1" class="dataframe">
