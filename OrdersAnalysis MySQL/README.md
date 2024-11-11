@@ -29,8 +29,9 @@ from sqlalchemy import create_engine
     
 ```python
 # Extract file from zip file
-with zipfile.ZipFile("orders.csv.zip") as f:
-    f.extractall()
+zip_ref = zipfile.ZipFile('orders.csv.zip')
+zip_ref.extractall() 
+zip_ref.close()
 ```
 
 ### 2. Read the data as Pandas dataframe/ handle null values/ rename columns
@@ -553,7 +554,7 @@ conn = engine.connect()
 
 ```python
 # load the data into sql server using append option
-df.to_sql("df_orders", con=engine, index=False, if_exists="append", method="multi")
+df.to_sql("df_orders", con=conn, index=False, if_exists="append", method="multi")
 ```
 
 
