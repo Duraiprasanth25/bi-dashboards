@@ -18,3 +18,4 @@
 |----------|----------|----------|
 | 1 | [Business Insights 360](https://github.com/Duraiprasanth25/bi-dashboards/tree/main/Business-insights-360)| Power BI |
 | 2 | [Good Cabs Analysis](https://github.com/Duraiprasanth25/Good-Cabs_CodeBasics-RPC13)|Power BI & SQL|
+| 3 | [Sales Insights](https://github.com/Duraiprasanth25/bi-dashboards/tree/main/Sales%20Insights)| Power BI |
