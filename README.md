@@ -17,4 +17,4 @@
 |Sr.No| Project Title | Tools    |
 |----------|----------|----------|
 | 1 | [Business Insights 360](https://github.com/Duraiprasanth25/bi-dashboards/tree/main/Business-insights-360)| Power BI |
-|          |          |          |
+| 2 | [Good Cabs Analysis](https://github.com/Duraiprasanth25/Good-Cabs_CodeBasics-RPC13)|Power BI & SQL|
