@@ -4,7 +4,7 @@ This is a project I replicated from Codebasics PowerBi Youtube playlist. You can
 
 [Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
-[Live Report Link](https://shorturl.at/yvfq6)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiOGM5NDEwMzgtZmJiNC00ODE1LWE5NzktOWJjNjI0YmJmZTY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem statement
 
@@ -49,8 +49,8 @@ and success criteria  of our project.
 #### Updated Dashboard
 
 ---
-<img src="https://github.com/Duraiprasanth25/bi-dashboards/blob/main/Sales%20Insights/Updated_report.png" width="550" class="center">
 
+![Screenshot 2025-02-11 152321](https://github.com/user-attachments/assets/574d3151-7373-42a5-a43a-b04403c1fc7c)
 
 
 
