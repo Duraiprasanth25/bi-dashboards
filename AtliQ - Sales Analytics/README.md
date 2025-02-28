@@ -61,11 +61,14 @@ The goal of this report is to analyze AtliQ Hardware's sales performance from 20
 
 ### Soft Skills Developed
 Report Design: Developed a refined understanding of designing user-centric reports with empathy in mind.
+
 Optimization: Acquired skills in optimizing report generation through meticulous fine-tuning.
+
 Systematic Approach: Developed a systematic approach to devising a report-building plan, enhancing efficiency.
 
 ### Project Management
 Strategic Thinking: Aligned financial planning with strategic goals, contributing to a comprehensive understanding of organizational financial outlook.
+
 Communication: Improved communication skills by presenting complex financial data in a clear and understandable format.
 
 ### Conclusion
